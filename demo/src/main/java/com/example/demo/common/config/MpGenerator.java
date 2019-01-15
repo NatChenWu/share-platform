@@ -1,4 +1,4 @@
-package com.example.shareplatform.api.common.config;
+package com.example.demo.common.config;
 
 import com.baomidou.mybatisplus.annotation.DbType;
 import com.baomidou.mybatisplus.generator.AutoGenerator;

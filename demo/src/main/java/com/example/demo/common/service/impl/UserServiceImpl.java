@@ -1,9 +1,9 @@
-package com.example.shareplatform.api.common.service.impl;
+package com.example.demo.common.service.impl;
 
-import com.example.shareplatform.api.common.entities.User;
-import com.example.shareplatform.api.common.dao.UserDao;
-import com.example.shareplatform.api.common.service.IUserService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
+import com.example.demo.common.dao.UserDao;
+import com.example.demo.common.entities.User;
+import com.example.demo.common.service.IUserService;
 import org.springframework.stereotype.Service;
 
 /**

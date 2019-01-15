@@ -1,4 +1,4 @@
-package com.example.shareplatform.api.common.entities;
+package com.example.demo.common.entities;
 
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableId;

@@ -1,7 +1,7 @@
-package com.example.shareplatform.api.common.service;
+package com.example.demo.common.service;
 
-import com.example.shareplatform.api.common.entities.User;
 import com.baomidou.mybatisplus.extension.service.IService;
+import com.example.demo.common.entities.User;
 
 /**
  * <p>

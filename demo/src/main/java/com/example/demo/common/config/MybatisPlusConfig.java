@@ -1,4 +1,4 @@
-package com.example.shareplatform.api.common.config;
+package com.example.demo.common.config;
 
 import com.baomidou.mybatisplus.extension.plugins.PaginationInterceptor;
 import org.mybatis.spring.annotation.MapperScan;
@@ -8,7 +8,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 @EnableTransactionManagement
 @Configuration
-@MapperScan("com.example.shareplatform.api.*.dao.mapper")
+@MapperScan("com.example.demo.**.dao.mapper")
 public class MybatisPlusConfig {
 
     /**

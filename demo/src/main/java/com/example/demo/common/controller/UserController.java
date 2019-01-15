@@ -1,10 +1,10 @@
-package com.example.shareplatform.api.common.controller;
+package com.example.demo.common.controller;
 
 
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
-import com.example.shareplatform.api.common.entities.User;
-import com.example.shareplatform.api.common.service.IUserService;
+import com.example.demo.common.entities.User;
+import com.example.demo.common.service.IUserService;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 

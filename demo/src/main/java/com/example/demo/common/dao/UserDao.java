@@ -1,7 +1,7 @@
-package com.example.shareplatform.api.common.dao;
+package com.example.demo.common.dao;
 
-import com.example.shareplatform.api.common.entities.User;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import com.example.demo.common.entities.User;
 import org.apache.ibatis.annotations.Mapper;
 
 /**
